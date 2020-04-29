@@ -197,3 +197,9 @@ h2 {
 	flex: 0 0 calc(20% - 1rem);
 	}
 }
+
+
+body{
+
+	background-color: #ffffff;
+}
